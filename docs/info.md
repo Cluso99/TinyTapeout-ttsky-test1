@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is just an initial test to see how making a project works. It is not intended to be made in TT silicon.
 
 ## How to test
 
